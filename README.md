@@ -5,6 +5,7 @@
 [🚀 Resume | CV](https://iamiteshkumar.github.io/)
 
 ## 📄 Resume & Job Profile 
+- 📑[**Resume/CV** in pdf format](./Amitesh_Dev_C_Rust_Go_embedded_networking_15_YOE.pdf)
 - 🌐 [**Personal Website / Portfolio**](https://iamiteshkumar.github.io/)
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/iamiteshkr/)
 - 💻 [**GitHub**](https://github.com/iAmiteshKumar)
