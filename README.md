@@ -1,6 +1,8 @@
-# 🚀 Amitesh Kumar
+# ⚡ Amitesh Kumar
 **Principal Systems Architect | 15+ Years Experience**
 *Specializing in Linux Embedded, Network Programming, and Cryptography.*
+
+[🚀 Resume | CV](https://iamiteshkumar.github.io/)
 
 ---
 
