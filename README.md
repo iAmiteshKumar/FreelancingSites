@@ -28,4 +28,5 @@ A curated list of top platforms for freelance and remote opportunities.
 - 🦉 [**Wise**](https://wise.com/invite/dic/amiteshk26)
 - 🍷 [**Winvesta**](https://pay.winvesta.in/sign-up?referral=AMITESHK84608)
 - 🇮🇳 [**Mulya**](https://mulya.co?referredBy=69dc743554872b0013e5de1d)
+- 🏓 [**PingPong**](https://business.pingpongx.com/entrance/signup?inviteCode=240621IImx&event_operation=referral_signup)
 
