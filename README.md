@@ -14,6 +14,7 @@ A curated list of top platforms for freelance and remote opportunities.
 - 🏢 [**Freelancer**](https://www.freelancer.com/u/iAmiteshKr)
 - 🥨 [**Malt**](https://www.malt.com/profile/amiteshkumar)
 - 🎓 [**Guru**](https://www.guru.com/freelancers/iamiteshkumar)
+- 🧠 [**Braintrust**](https://app.usebraintrust.com/r/amitesh33/)
 - 🤝 [**Contra**](https://contra.com/amitesh_kumar_32xr5mfp)
 
 ---
