@@ -3,28 +3,27 @@ A curated list of top platforms for freelance and remote opportunities.
 
 ## 📄 Resume & Job Profile 
 - 🌐 [**Personal Website / Portfolio**](https://iamiteshkumar.github.io/)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/iamiteshkr/)
 - 📧 [**Email**](mailto:iAmiteshKr@gmail.com)
 
-### 👤 Find My Profile & Connect
+### 👤 Find My Profile & Connect over below Freelance and Remote Job Boards
 *Reach out to me directly on my preferred platforms:*
+- 📈 [**Upwork**](https://www.upwork.com/freelancers/~01aeeccd37907a962b)
 - 🟢 [**Fiverr**](https://www.fiverr.com/s/yv3yooV)
 - 🏢 [**Freelancer**](https://www.freelancer.com/u/iAmiteshKr)
 - 🥨 [**Malt**](https://www.malt.com/profile/amiteshkumar)
-
+- 🎓 [**Guru**](https://www.guru.com/freelancers/iamiteshkumar)
+- 🤝 [**Contra**](https://contra.com/amitesh_kumar_32xr5mfp)
 
 ---
 
-### 🌍 Freelance & Remote Job Boards
-*Platforms to explore listings or view my professional profile:*
+### 🌍 
+*Platforms to explore listings*
 
-- 🥨 [**Malt**](http://malt.com)
-- 🎓 [**Guru**](https://guru.com)
 - 🧠 [**Braintrust**](https://usebraintrust.com)
 - 📝 [**SimplyHired**](https://simplyhired.com)
 - 💻 [**Remote OK**](https://remoteok.com)
 - 🗺️ [**Freelancermap**](https://freelancermap.com)
-- 🤝 [**Contra**](https://contra.com)
-- 📈 [**Upwork**](https://upwork.com)
 - 🛠️ [**Hubstaff Talent**](https://hubstaff.com)
 - 🇫🇷 [**ComeUp**](https://comeup.com)
 - 🏠 [**We Work Remotely**](https://weworkremotely.com)
