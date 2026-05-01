@@ -16,6 +16,7 @@ A curated list of top platforms for freelance and remote opportunities.
 - 🎓 [**Guru**](https://www.guru.com/freelancers/iamiteshkumar)
 - 🇫🇷 [**ComeUp**](https://comeup.com/en/@iamiteshkr)
 - 🧠 [**Braintrust**](https://app.usebraintrust.com/r/amitesh33/)
+- 🚀 [**goLance**](https://golance.com/freelancer/amitesh-kumar)
 - 🤝 [**Contra**](https://contra.com/amitesh_kumar_32xr5mfp)
 
 ---
