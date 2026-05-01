@@ -11,7 +11,7 @@
 - 🆔 [**ORCID Profile**](https://orcid.org/0009-0003-5953-5923)
 - 💬 [**Signal Me**](https://signal.me/#eu/52NiRNfli3OIIYAKcNQWbG3KxkXt14d0vfmqNzDhbz1JRL5bClNPW5RPe0I4_I3G)
 - 📧 [**Email**](mailto:iAmiteshKr@gmail.com)
-*   📞 **Phone:** [+91 9599806564](tel:+919599806564)
+- 📞 [**Phone:**](tel:+919599806564) +91 9599806564
 ---
 *   🔋 **Status:** `Available for Freelance & Remote Projects`
 ---
