@@ -1,5 +1,5 @@
-# ⚡ Amitesh Kumar
-**Principal Systems Architect | 15+ Years Experience**
+# ⚡ Amitesh Kumar | Principal Systems Architect
+### 🛠️ 15+ Years of Engineering Excellence in Linux Embedded, Networks & Crypto
 *Specializing in Linux Embedded, Network Programming, and Cryptography.*
 
 [🚀 Resume | CV](https://iamiteshkumar.github.io/)
@@ -14,28 +14,32 @@
 
 ---
 
+---
+
 ## 📄 Executive Summary
-A seasoned developer with over **15 years of experience** in full-stack embedded development. Expert in building high-performance networking protocols, implementing advanced cryptographic security, and architecting robust systems using **C, Rust, Go, and Lua**.
+A seasoned architect with over **15 years of experience** 🏗️ in full-stack embedded development. I specialize in building high-performance networking protocols 〰️, implementing advanced cryptographic security 🛡️, and architecting robust systems using **C, Rust, Go, and Lua**.
 
-### 🛠️ Core Technical Expertise
+---
 
-#### **1. Network & Protocol Engineering**
-*   **Protocol Implementation:** HTTP (GET/POST), CGI, SMTP, DNS, and OMCI.
-*   **Analysis Tools:** Developed packet analysers for OMCI and Multicast IPTV (MPEG2TS) streams.
-*   **Infrastructure:** Completed board bring-up for **11+ routers** and developed core router components.
-*   **Advanced Networking:** PoC development in **DPDK** and extensive DNS experience (Client/Proxy/Firewall).
+### 🚀 Core Technical Expertise
 
-#### **2. Cryptography & Security**
-*   **Libraries:** Expert in OpenSSL, LibSodium, Nettle, Botan, and RustCrypto.
-*   **Security Protocols:** DTLS, PKI, X509, ACME, Noise Protocol, and openMLS.
-*   **Hardware Security:** Implementation experience with **TPM, HSM, and KMIP**.
-*   **Cutting Edge:** Specialization in **Post Quantum Cryptography (PQC)** using `libcrux`.
+#### **1. 〰️ Network & Protocol Engineering**
+*   📡 **Protocol Implementation:** HTTP (GET/POST), CGI, SMTP, DNS, and OMCI.
+*   🔍 **Analysis Tools:** Developed packet analysers for OMCI and Multicast IPTV (MPEG2TS) streams.
+*   🏗️ **Infrastructure:** Completed board bring-up for **11+ routers** and developed core components.
+*   🧪 **Advanced Networking:** PoC development in **DPDK** and extensive DNS expertise (Proxy/Firewall).
 
-#### **3. Rust Specialization**
-*   **Embedded:** Embedded Linux and Bare-metal development.
-*   **Cloud & Edge:** WebAssembly (WASM) for IoT devices using **WasmEdge**.
-*   **AI/ML:** Inference and pipelining implementation in Rust.
-*   **Networking:** High-performance async TCP/IP programming.
+#### **2. 🔌 Cryptography & Security**
+*   📚 **Libraries:** Expert in OpenSSL, LibSodium, Nettle, Botan, and RustCrypto.
+*   🔐 **Security Protocols:** DTLS, PKI, X509, ACME, Noise Protocol, and openMLS.
+*   💾 **Hardware Security:** Deep implementation with **TPM, HSM, and KMIP**.
+*   ☢️ **Cutting Edge:** Specialization in **Post Quantum Cryptography (PQC)** using `libcrux`.
+
+#### **3. 🔋 Rust Specialization**
+*   🐧 **Embedded:** Embedded Linux and Bare-metal development.
+*   ☁️ **Edge Computing:** WebAssembly (WASM) for IoT devices using **WasmEdge**.
+*   🤖 **AI/ML:** Inference and pipelining implementation in Rust.
+*   🚀 **Networking:** High-performance async TCP/IP programming.
 
 ---
 
@@ -44,26 +48,29 @@ A seasoned developer with over **15 years of experience** in full-stack embedded
 
 | Category | Skills |
 | :--- | :--- |
-| **Highly Expert** | C, Rust, Go, Lua |
-| **Proficient** | Python, Shell Scripting, PHP, Perl, Awk, Kotlin, Scala |
-| **Datapath** | XDP (eBPF), Linux Kernel TCP/IP Stack, Load Balancers |
-| **Embedded/OS** | OpenWRT, UEFI, Bootloaders (GRUB), Initrd/Rootfs security |
-| **Security/Auth** | LUKS, Clevis, PKI Signing, PBKDF, PKCS #5/#11 |
+| ⚡ **Highly Expert** | `C` • `Rust` • `Go` • `Lua` |
+| 💡 **Proficient** | `Python` • `Shell` • `PHP` • `Kotlin` • `Scala` |
+| ☢️ **Datapath** | `XDP (eBPF)` • `Linux Kernel TCP/IP` • `Load Balancers` |
+| 🛠️ **Embedded/OS** | `OpenWRT` • `UEFI` • `Bootloaders (GRUB)` • `Secure Rootfs` |
+| 🛡️ **Security/Auth** | `LUKS` • `Clevis` • `PKI Signing` • `PKCS #5/#11` |
+
+---
+
+### 📂 Featured Projects
+*   ☢️ **PQC in C/Rust:** Quantum-safe algorithm implementation with `libcrux`.
+*   〰️ **XDP Monitoring:** Building high-speed eBPF firewalls.
+*   🔌 **WasmEdge:** Porting complex client/server logic to WebAssembly.
+*   🔐 **Secure Boot:** Custom GRUB/TPM/LUKS hardening.
 
 ---
 
 ### 📬 Contact & Connect
-- 📧 **Email:** [iAmiteshKr@gmail.com](mailto:iAmiteshKr@gmail.com)
-- 📞 **Phone:** +91 9599806564
-- 🌍 **Status:** Available for Freelance & Remote opportunities.
+*   📧 **Email:** [iAmiteshKr@gmail.com](mailto:iAmiteshKr@gmail.com)
+*   🔗 **LinkedIn:** [iamiteshkr](https://linkedin.com)
+*   💬 **Signal:** [Message Me](https://signal.me)
+*   📞 **Phone:** [+91 9599806564](tel:+919599806564)
+*   🔋 **Status:** `Available for Freelance & Remote Projects`
 
----
-
-### 📂 Featured Projects (Quick View)
-*   **PQC in C/Rust:** Implementing Quantum-safe algorithms using `libcrux`.
-*   **XDP (eBPF) Monitoring:** Developing high-speed firewalls and load balancers.
-*   **WasmEdge Integration:** Porting client/server components to WebAssembly.
-*   **Secure Boot:** Custom GRUB scripting for TPM and LUKS-based rootfs security.
 
 ---
 ### 👤 Find My Profile & Connect over below Freelance and Remote Job Boards
@@ -79,14 +86,6 @@ A seasoned developer with over **15 years of experience** in full-stack embedded
 - 🤝 [**Contra**](https://contra.com/amitesh_kumar_32xr5mfp)
 ---
 ### 💰 Global multi currency inward remittance/Payment for freelancers
-- 💳 [**Infinity App**](https://dashboard.infinityapp.in/auth/signup?referralCode=V1TzTNl6)
-- ☁️ [**Skydo**](https://join.skydo.com/amitesh-kumar)
-- ⚡ [**BriskPe**](https://web.briskpe.com/auth/signup/?referralCode=CU549624)
-- 🌊 [**Xflowpay**](https://dashboard.xflowpay.com/referral/iAmiteshKr)
-- 🦉 [**Wise**](https://wise.com/invite/dic/amiteshk26)
-- 🍷 [**Winvesta**](https://pay.winvesta.in/sign-up?referral=AMITESHK84608)
-- 🇮🇳 [**Mulya**](https://mulya.co?referredBy=69dc743554872b0013e5de1d)
-- 🏓 [**PingPong**](https://business.pingpongx.com/entrance/signup?inviteCode=240621IImx&event_operation=referral_signup)
-- 🐘 [**Grey**](https://app.grey.co/auth/register?referral=N7W6AO)
+- 💳 [**Infinity App**](https://dashboard.infinityapp.in/auth/signup?referralCode=V1TzTNl6) ☁️ [**Skydo**](https://join.skydo.com/amitesh-kumar) ⚡ [**BriskPe**](https://web.briskpe.com/auth/signup/?referralCode=CU549624)  🌊 [**Xflowpay**](https://dashboard.xflowpay.com/referral/iAmiteshKr) 🦉 [**Wise**](https://wise.com/invite/dic/amiteshk26) 🍷 [**Winvesta**](https://pay.winvesta.in/sign-up?referral=AMITESHK84608) 🇮🇳 [**Mulya**](https://mulya.co?referredBy=69dc743554872b0013e5de1d) 🏓 [**PingPong**](https://business.pingpongx.com/entrance/signup?inviteCode=240621IImx&event_operation=referral_signup) 🐘 [**Grey**](https://app.grey.co/auth/register?referral=N7W6AO)
 ---
 
