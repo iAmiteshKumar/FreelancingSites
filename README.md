@@ -18,7 +18,7 @@ A curated list of top platforms for freelance and remote opportunities.
 - 🧠 [**Braintrust**](https://app.usebraintrust.com/r/amitesh33/)
 - 🚀 [**goLance**](https://golance.com/freelancer/amitesh-kumar)
 - 🤝 [**Contra**](https://contra.com/amitesh_kumar_32xr5mfp)
-
+- 🐘 [**Grey**](https://app.grey.co/auth/register?referral=N7W6AO)
 ---
 ### 💰 Global multi currency inward remittance/Payment for freelancers
 - 💳 [**Infinity App**](https://dashboard.infinityapp.in/auth/signup?referralCode=V1TzTNl6)
