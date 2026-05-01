@@ -25,4 +25,6 @@ A curated list of top platforms for freelance and remote opportunities.
 - ☁️ [**Skydo**](https://join.skydo.com/amitesh-kumar)
 - ⚡ [**BriskPe**](https://web.briskpe.com/auth/signup/?referralCode=CU549624)
 - 🌊 [**Xflowpay**](https://dashboard.xflowpay.com/referral/iAmiteshKr)
+- 🦉 [**Wise**](https://wise.com/invite/dic/amiteshk26)
+- 🍷 [**Winvesta**](https://pay.winvesta.in/sign-up?referral=AMITESHK84608)
 
