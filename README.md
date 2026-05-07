@@ -66,7 +66,7 @@ A seasoned architect with over **15 years of experience** 🏗️ in full-stack 
 ### 👤 Find My Profile & Connect over below Freelance and Remote Job Boards
 *Reach out to me directly on my preferred platforms:*
 - 📈 [**Upwork**](https://www.upwork.com/freelancers/~01aeeccd37907a962b)
-- 🟢 [**Fiverr**](https://www.fiverr.com/s/yv3yooV)
+- 🟢 [**Fiverr**](https://www.fiverr.com/pe/zWDlLgK)
 - 🏢 [**Freelancer**](https://www.freelancer.com/u/iAmiteshKr)
 - 🥨 [**Malt**](https://www.malt.com/profile/amiteshkumar)
 - 🎓 [**Guru**](https://www.guru.com/freelancers/iamiteshkumar)
