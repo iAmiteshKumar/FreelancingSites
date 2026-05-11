@@ -2,7 +2,7 @@
 ### 🛠️ 15+ Years of Engineering Excellence in Linux Embedded, Networks & Crypto
 *Specializing in Linux Embedded, Network Programming, and Cryptography.*
 
-[🚀 Resume | CV](https://iamiteshkumar.github.io/)
+[🚀 Resume | CV](https://iamiteshkumar.github.io/) <!-- |  [**📞 Phone:**](tel:+919599806564) -->
 
 ## 📄 Resume & Job Profile 
 - 📑[**Resume/CV** in pdf format](./Amitesh_Dev_C_Rust_Go_embedded_networking_15_YOE.pdf)
@@ -12,7 +12,6 @@
 - 🆔 [**ORCID Profile**](https://orcid.org/0009-0003-5953-5923)
 - 💬 [**Signal Me**](https://signal.me/#eu/52NiRNfli3OIIYAKcNQWbG3KxkXt14d0vfmqNzDhbz1JRL5bClNPW5RPe0I4_I3G)
 - 📧 [**Email**](mailto:iAmiteshKr@gmail.com)
-- 📞 [**Phone:**](tel:+919599806564) +91 9599806564
 - 📱 [**WhatsApp**](https://wa.me/+919599806564)
 ---
 *   🔋 **Status:** `Available for Freelance & Remote Projects`
